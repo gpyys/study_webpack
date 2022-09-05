@@ -26,6 +26,9 @@
     "> 1%"
   ],
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "html-loader": "0.5.5",
+    "marked": "^4.1.0",
     "postcss": "^8.4.14",
     "postcss-cli": "^10.0.0"
   }

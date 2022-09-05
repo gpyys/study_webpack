@@ -1,1 +1,2 @@
-console.log("main page")
+import about from "./about.md"
+console.log(about)
